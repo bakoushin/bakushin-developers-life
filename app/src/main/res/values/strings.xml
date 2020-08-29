@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Developers Life</string>
+    <string name="image_description">Image</string>
+    <string name="button_next">Next</string>
+    <string name="button_prev">Previous</string>
+    <string name="button_retry">Retry</string>
+    <string name="tab_latest">Latest</string>
+    <string name="tab_top">Top</string>
+    <string name="tab_hot">Hot</string>
+    <string name="feed_empty">Feed is empty</string>
+    <string name="network_error">Network error</string>
+</resources>
